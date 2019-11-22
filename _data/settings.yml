@@ -1,10 +1,10 @@
 audit_header: false
 title: Charlotte Real Estate Video Blog with Scott Pridemore
 description: Our mission at Pridemore Properties is to be your best resource for Charlotte real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Pridemore Properties, your professional Charlotte Real Estate Agents.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Testimonials
+    url: /testimonials/
 show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
@@ -88,7 +88,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 50
-  hero_text: Charlotte Real Estate Video Blog
+  hero_text: Charlotte Real Estate Talk Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -114,7 +114,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: transparent
-  button_text_color: '#123456'
+  button_text_color: '#bb352b'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
