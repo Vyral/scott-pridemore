@@ -64,11 +64,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  youtube_url:
+  facebook_url: https://www.facebook.com/pridemoreprop/
+  linkedin_url: https://www.linkedin.com/in/scottpridemore/
+  youtube_url: https://www.youtube.com/channel/UCaQzQa-b7xJkIvhEqeS-oRw?view_as=subscriber
   twitter_url:
-  instagram_url:
+  instagram_url: https://www.instagram.com/scott.pridemore/?hl=en
   pinterest_url:
   zillow_url:
   trulia_url:
