@@ -73,7 +73,7 @@ socials:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url:
+  podcast_url: https://podcasts.apple.com/us/podcast/charlotte-real-estate-podcast/id1389184635?ls=1&mt=2
 
 podcast:
   title: 'Charlotte Real Estate Podcast with Scott Pridemore'
