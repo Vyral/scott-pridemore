@@ -19,7 +19,7 @@ youtube_code: 2QeDAZJl-NU
 
 {% include youtube.html %}
 
-The art of maximizing value is a broad topic in the real estate industry. It can refer to the value we agents bring to the marketplace, how we help maximize the value of sellers’ homes, the perceived value of investments for buyers, and so on. Today I’m joined by fellow agent Mike to talk about how agents maximize value for their clients.&nbsp;
+The art of maximizing value is a broad topic in the real estate industry. It can refer to the value we agents bring to the marketplace, how we help maximize the value of sellers’ homes, the perceived value of investments for buyers, and so on. Today I’m joined by fellow agent Mike Hege to talk about how agents maximize value for their clients.&nbsp;
 
 **Follow along in the video above to see our full discussion. For your convenience, I’ve provided timestamps so you can skip ahead to various sections:&nbsp;**
 
