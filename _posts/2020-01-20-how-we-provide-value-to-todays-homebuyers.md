@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How We Provide Value to Today’s Homebuyers
-date: 2020-01-20 22:35:07
+date: 2020-01-20 22:35:00
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -30,7 +30,7 @@ Next, it’s important to remember that **buyers all want different things in a 
 
 Also, consider the fact that **interest rates are currently at an all-time low.** This means it might be a good idea for a hesitant buyer to jump into the market; home affordability increases when interest rates are low.
 
-If you’re considering a move in 2020, now is a good time to start having that conversation with a professional. Let’s familiarize you with the homebuying process, the competition, the available inventory—the more information you have now, the more you’ll be armed with when the right property for you comes on the market.
+If you’re considering a move in 2020, now is a good time to start having that conversation with a professional. Let’s familiarize you with the home buying process, the competition, the available inventory—the more information you have now, the more you’ll be armed with when the right property for you comes on the market.
 
 Don’t hesitate to reach out to us for help or any questions you have. We’d be glad to help you\!
 
