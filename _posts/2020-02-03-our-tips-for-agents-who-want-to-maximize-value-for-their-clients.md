@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Tips for Agents Who Want to Maximize Value for Their Clients
-date: 2020-02-03 19:47:52
+date: 2020-02-03 19:47:00
 tags:
   - Real Estate
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: 7c6J3GeLXZQ
 
 {% include youtube.html %}
 
-In an excerpt from our latest podcast, we discussed how agents can maximize the home value of their sellers. (NAME) and I roleplayed a few situations, gave some recommendations, and discussed the topic in depth.
+In an excerpt from our latest podcast, we discussed how agents can maximize the home value of their sellers. Mike Hege and I roleplayed a few situations, gave some recommendations, and discussed the topic in depth.
 
 **Here’s an outline of our discussion, with timestamps so that you can skip ahead to the section(s) that interest you most:**
 
