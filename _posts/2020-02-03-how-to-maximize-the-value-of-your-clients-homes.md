@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Tips for Agents Who Want to Maximize Value for Their Clients
+title: How to Maximize the Value of Your Clients’ Homes
 date: 2020-02-03 19:47:00
 tags:
   - Real Estate
