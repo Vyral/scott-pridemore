@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Maximize the Value of Your Clients’ Homes
+title: How We Maximize Value For Our Seller Clients
 date: 2020-02-03 19:47:00
 tags:
   - Real Estate
