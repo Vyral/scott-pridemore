@@ -19,7 +19,7 @@ youtube_code: dDgHuqRVkO0
 
 {% include youtube.html %}
 
-*You’ve probably heard of Zillow’s Zestimates—automated home value estimates—but how much do you really know about them? Here’s what you need to know about Zestimates.*
+<center><em>*You’ve probably heard of Zillow’s Zestimates—automated home value estimates—but how much do you really know about them? Here’s what you need to know about Zestimates.*</em></center>
 
 One of the popular real estate website Zillow’s most attractive features is its Zestimate, which is an automated home valuation. This estimate is generated based on user-submitted data regarding the house in question as well as information derived from public records. To many people, this seems like a quick and easy way to figure out how much a property is worth.
 
