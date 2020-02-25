@@ -25,11 +25,11 @@ youtube_code: dDgHuqRVkO0
 
 <center>&nbsp;</center>
 
-One of the popular real estate website Zillow’s most attractive features is its Zestimate, which is an automated home valuation. This estimate is generated based on user-submitted data regarding the house in question as well as information derived from public records. To many people, this seems like a quick and easy way to figure out how much a property is worth.
+One of Zillow’s most attractive features is its Zestimate, which is an automated home valuation. This estimate is generated based on user-submitted data regarding the house in question as well as information derived from public records. To many people, this seems like a quick and easy way to figure out how much a property is worth.
 
-But many may not realize that homeowners and their agents can go to the site and suggest that certain changes have been made to a property in order to alter their Zestimate. So how trustworthy are Zestimates, really? **Today, Mike Hege joins me to discuss what homebuyers and sellers need to understand when it comes to Zestimates.**
+Many may not realize that homeowners and their agents can go to the site and suggest that certain changes have been made to a property in order to alter their Zestimate. So how trustworthy are Zestimates? **Today, Mike Hege joins me to discuss what homebuyers and sellers need to understand when it comes to Zestimates.**
 
-Feel free to follow our discussion in the video above or use the timestamps below to navigate the video at your leisure:
+**Feel free to follow our discussion in the video above or use the timestamps below to navigate the video at your leisure:**
 
 1:25—How Zestimates are calculated and how they can be altered
 
