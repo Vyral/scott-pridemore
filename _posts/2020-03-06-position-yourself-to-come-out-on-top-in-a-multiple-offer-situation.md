@@ -23,6 +23,6 @@ youtube_code: DSPSadRIStk
 
 &nbsp;
 
-If a listed home is priced well, move-in ready, and in a good location, more than one buyer will see the value in it, hence multiple-offer situations. We’re in a seller’s market here in Charlotte and our economy is strong, which means **we’re seeing many bidding wars break out over available homes**. As a buyer, how can you position yourself in the best way possible so that you win out in a multiple-offer situation and close on the home you want? Mike Hedge joins me today to answer that question by offering some valuable tips.&nbsp;
+If a listed home is priced well, move-in ready, and in a good location, more than one buyer will see the value in it, hence multiple-offer situations. We’re in a seller’s market here in Charlotte and our economy is strong, which means **we’re seeing many bidding wars break out over available homes**. As a buyer, how can you position yourself in the best way possible so that you win out in a multiple-offer situation and close on the home you want? Mike Hege joins me today to answer that question by offering some valuable tips.&nbsp;
 
 Remember, if you have questions about this or any real estate topic, don’t hesitate to reach out to me. I’m here to help.&nbsp;
