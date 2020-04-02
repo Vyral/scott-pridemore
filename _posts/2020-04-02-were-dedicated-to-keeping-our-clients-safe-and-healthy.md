@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We’re Dedicated to Keeping Our Clients Safe and Healthy
-date: 2020-04-02 17:26:59
+date: 2020-04-02 10:00:00
 tags:
 excerpt: >-
   Although the coronavirus pandemic has interrupted and significantly changed
