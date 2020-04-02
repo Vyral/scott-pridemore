@@ -7,7 +7,7 @@ excerpt: >-
   Although the coronavirus pandemic has interrupted and significantly changed
   our daily lives, we’re still doing our best to adapt to the situation and
   ensure our clients are safe and healthy.
-enclosure:
+enclosure: 'https://vyralmarketing.s3.amazonaws.com/Scott+Pridemore/Adapting.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
