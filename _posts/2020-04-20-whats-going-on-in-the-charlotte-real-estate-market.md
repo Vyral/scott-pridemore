@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What’s Going on in the Charlotte Real Estate Market
-date: 2020-04-20 18:16:57
+date: 2020-04-20 18:16:00
 tags:
 excerpt: >-
   Mike Hege joins me to discuss the facts and dispel unhelpful hysteria
   surrounding the performance of our real estate market amid the COVID-19
   pandemic.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Pridemore/Your+Latest+Charlotte+Real+Estate+Market+Update.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
