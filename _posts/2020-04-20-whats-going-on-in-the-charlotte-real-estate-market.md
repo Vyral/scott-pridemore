@@ -18,7 +18,8 @@ youtube_code: AFcJV3B-ltk
 
 {% include youtube.html %}
 
-*Mike Hege joins me to discuss the facts and dispel unhelpful hysteria surrounding the performance of our real estate market amid the COVID-19 pandemic.*
+<center><em>Mike Hege joins me to discuss the facts and dispel unhelpful hysteria surrounding the performance of our real estate market amid the COVID-19 pandemic.</em></center>
+&nbsp;
 
 Despite what you may be hearing, real estate is still moving. As my guest, Mike Hege, explains, there are fundamental principles associated with prudent home selling and home buying that don’t change when the circumstances do. Of course, there are fewer listings these days, but at its core, our real estate market is still healthy—and it’s primed to stay healthy.&nbsp;
 
