@@ -5,10 +5,15 @@ show_custom_links: true
 custom_links:
   - title: Testimonials
     url: /testimonials/
+  - title: Property Details
+    url: /property-details/
 show_custom_links_new_tab: true
 custom_links_new_tab:
   - title: Podcast
     url: http://pridemoreproperties.blubrry.net/
+
+forms:
+  sitekey: 6LeoalUaAAAAANzwltShai-PbjmUyd1mMg0tTpsY
 
 client:
   name: Scott Pridemore

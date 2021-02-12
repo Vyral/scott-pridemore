@@ -8,7 +8,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-  <title>About</title>
+  <title>Property Details</title>
   <meta name="description" content="Our mission at Pridemore Properties is to be your best resource for Charlotte real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Pridemore Properties, your professional Charlotte Real Estate Agents.
 	">
 
@@ -16,7 +16,7 @@
   <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300,300italic,200' rel='stylesheet' type='text/css'>
   <!-- style-->
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/about/">
+  <link rel="canonical" href="http://localhost:4000/property-details/">
   <link rel="alternate" type="application/rss+xml" title="Charlotte Real Estate Video Blog with Scott Pridemore" href="http://localhost:4000/feed.xml">
   <!-- All that meta crap -->
   <meta name="description" content="Our mission at Pridemore Properties is to be your best resource for Charlotte real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Pridemore Properties, your professional Charlotte Real Estate Agents.
@@ -28,9 +28,9 @@
 
   <!--Facebook -->
   <meta property="og:type" content="website">
-  <meta property="og:title" content="About">
-  <meta itemprop="name" content="About">
-  <meta property="og:url" content="http://localhost:4000/about/">
+  <meta property="og:title" content="Property Details">
+  <meta itemprop="name" content="Property Details">
+  <meta property="og:url" content="http://localhost:4000/property-details/">
   <meta property="og:description" content="Our mission at Pridemore Properties is to be your best resource for Charlotte real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Pridemore Properties, your professional Charlotte Real Estate Agents.">
   <meta property="og:site_name" content="Charlotte Real Estate Video Blog with Scott Pridemore">
   <meta property="og:locale" content="en_US">
@@ -236,9 +236,18 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-lg-offset-1">
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse fermentum tellus eget nisl rutrum, ac lobortis sapien bibendum. Vestibulum et purus magna. Cras imperdiet eros massa, eu volutpat ante tempus in. Vivamus congue facilisis venenatis. Donec eros augue, dignissim in ante sit amet, lobortis vestibulum diam. Donec dictum lorem facilisis tincidunt cursus. Phasellus vel eros nibh. Nullam blandit nunc tincidunt est gravida faucibus. Donec ut semper diam, non lacinia libero. Aliquam in massa quam. Nullam vitae quam arcu. Proin tincidunt consectetur nunc vel sagittis. Nulla non feugiat nibh, sed laoreet justo.</p>
+					<h3>Please tell me about the type of property you’d like to find</h3>
+<form class="contact-form" method="post" action="/thankyou" id="property-details-form">
+  <textarea name="Message"></textarea>
+  <!-- Cloud cannon settings field -->
+  <div class="hidden">
+    <input type="hidden" name="_to" value="scott@pridemoremail.com" />
+    <input type="hidden" name="_subject" value="Property Details Message from your Vyral Video Blog" />
+    <input type="text" name="_gotcha" />
+  </div>
 
-<p>Vivamus porttitor dolor ut augue condimentum ultricies. Etiam vel orci pretium, tempus nunc eget, suscipit tellus. Phasellus nibh nunc, suscipit vitae sem in, tincidunt vulputate enim. Vestibulum consectetur nulla at ligula malesuada condimentum. Vestibulum sed dui vulputate, aliquet ipsum posuere, consequat est. Sed at nisl tempor, dictum tellus ac, placerat velit. Donec in malesuada nisi. Nam tincidunt nunc mollis dolor ultricies, ut ultricies leo porttitor.</p>
+  <button class="g-recaptcha" data-sitekey="6LeoalUaAAAAANzwltShai-PbjmUyd1mMg0tTpsY" data-callback="onPropertyDetailsSubmit" data-badge="bottomleft">Submit</button>
+</form>
 
 				</div>
 
