@@ -18,7 +18,8 @@ youtube_code: XX7EBMkcMIo
 ---
 {% include youtube.html %}
 
-Here’s what buyers need to know about new construction homes.
+<center><em>Here’s what buyers need to know about new construction homes.</em></center>
+&nbsp;
 
 As far as new construction goes, there is a litany of options in our marketplace, ranging across many price points and types of builds. What many don’t realize, though, is that a lot of these homes aren’t even in the MLS. Many times, a for-sale sign in the front yard will attract buyers to a new property before the first brick has even been laid.&nbsp;
 
