@@ -16,7 +16,9 @@ youtube_code: hCyCncfCgGQ
 ---
 {% include youtube.html %}
 
-Here’s how to successfully navigate our hot real estate market today.
+<center><em>Here’s how to successfully navigate our hot real estate market today.</em></center>
+&nbsp;
+
 
 A lot of sellers have questions regarding how they might be able to sell their home while also positioning themselves to successfully buy another property.&nbsp;
 
