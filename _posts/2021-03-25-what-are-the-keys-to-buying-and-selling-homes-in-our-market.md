@@ -16,9 +16,9 @@ youtube_code: hCyCncfCgGQ
 ---
 {% include youtube.html %}
 
-<center><em>Here’s how to successfully navigate our hot real estate market today.</em></center>
-&nbsp;
+<center><em>Here&rsquo;s how to successfully navigate our hot real estate market today.</em></center>
 
+&nbsp;
 
 A lot of sellers have questions regarding how they might be able to sell their home while also positioning themselves to successfully buy another property.&nbsp;
 
@@ -26,9 +26,9 @@ In this COVID climate, we start by taking all the standard precautions that the 
 
 {% include pullquote.html %}
 
-Homes aren’t taking long to sell at all. If you’re worried about selling too quickly and not being able to find a new home in time, we can help with that. **We can connect buyers and sellers, align the times just right, and even lease the sold home back from the buyer for up to 60 days to find that new property if necessary.** This gives our sellers a bit of a buffer and eases some of that stress that comes with buying in a low inventory market like this.
+Homes aren’t taking long to sell at all. If you’re worried about selling too quickly and not being able to find a new home in time, we can help with that. **We can connect buyers and sellers, align the times just right, and even lease the sold home back from the buyer for up to 60 days to find that new property if necessary.** This gives our sellers a bit of a buffer and eases some of the stress that comes with buying in a low inventory market like this.
 
-It’s not just about finding properties on the MLS if you’re a buyer. With record low inventory, you need to get creative. Good agents will be able to find properties that aren't even listed. Sellers are selling for top dollar right now, and most listings on the MLS are getting multiple offers.
+It’s not just about finding properties on the MLS if you’re a buyer. With record low inventory, you need to get creative. Good agents will be able to find properties that aren't even listed. Sellers are earning top dollar right now, and most listings on the MLS are getting multiple offers.
 
 At the same time, there’s also a huge opportunity for homebuyers to lock in a low interest rate. **Statistics indicate that we’re headed into further reduced inventory based on current demand.**
 
