@@ -11,7 +11,7 @@ pullquote: There is a huge opportunity for homebuyers to lock in a low interest 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/3-25-21yt-3.jpg
+youtube_alternate_image: /uploads/3-27-21yt.jpg
 youtube_code: hCyCncfCgGQ
 ---
 {% include youtube.html %}
