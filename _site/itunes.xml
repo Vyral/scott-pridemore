@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Pridemore Properties - your professional Charlotte Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Scott Pridemore</managingEditor>
-    <lastBuildDate>2021-02-12 11:47:25 -0600</lastBuildDate>
+    <lastBuildDate>2021-04-07 14:08:08 -0500</lastBuildDate>
     <media:copyright>Scott Pridemore</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,92 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Pridemore Properties - your professional Charlotte Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>What Are the Keys to Buying and Selling Homes in Our Market?</title>
+        <link>http://localhost:4000/what-are-the-keys-to-buying-and-selling-homes-in-our-market.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Scott Pridemore</author>
+        <pubDate>2021-03-24 19:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Here&rsquo;s how to successfully navigate our hot real estate market today.
+
+ 
+
+A lot of sellers have questions regarding how they might be able to sell their home while also positioning themselves to successfully buy another property. 
+
+In this COVID climate, we start by taking all the standard precautions that the CDC has imposed. We also allow homebuyers and agents to view homes one at a time while using facemasks and hand sanitizer.
+
+“There is a huge opportunity for homebuyers to lock in a low interest rate.”
+
+Homes aren’t taking long to sell at all. If you’re worried about selling too quickly and not being able to find a new home in time, we can help with that. We can connect buyers and sellers, align the times just right, and even lease the sold home back from the buyer for up to 60 days to find that new property if necessary. This gives our sellers a bit of a buffer and eases some of the stress that comes with buying in a low inventory market like this.
+
+It’s not just about finding properties on the MLS if you’re a buyer. With record low inventory, you need to get creative. Good agents will be able to find properties that aren’t even listed. Sellers are earning top dollar right now, and most listings on the MLS are getting multiple offers.
+
+At the same time, there’s also a huge opportunity for homebuyers to lock in a low interest rate. Statistics indicate that we’re headed into further reduced inventory based on current demand.
+
+If you have any questions about buying a home, selling a home, or real estate in general, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s how to successfully navigate our hot real estate market today.</itunes:subtitle>
+        <itunes:author>Scott Pridemore</itunes:author>
+        <itunes:summary>Here’s how to successfully navigate our hot real estate market today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Buyers Should Know About New Construction</title>
+        <link>http://localhost:4000/what-buyers-should-know-about-new-construction.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Real Estate</category>
+        
+        <author>Scott Pridemore</author>
+        <pubDate>2021-03-18 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Scott+Pridemore/2021/NewConstruction_ScottPridemore_v1.mp4</guid>
+        <description>
+
+Here&rsquo;s what buyers need to know about new construction homes.
+
+ 
+
+As far as new construction goes, there is a litany of options in our marketplace, ranging across many price points and types of builds. What many don’t realize, though, is that a lot of these homes aren’t even in the MLS. Many times, a for-sale sign in the front yard will attract buyers to a new property before the first brick has even been laid. 
+
+But what are the benefits of buying new construction? Here are just a few:
+
+1. Everything is brand-new. You’ll be the first one to ever live in the home.
+
+2. You can often customize the home, including paint colors and hardware.
+
+3. Everything is under warranty.
+
+“You’ll need a buyer’s agent to help you navigate the nuances of the builder’s contract.”
+
+If you’re thinking of buying a new construction home, we highly recommend that you order a home inspection. Yes, the home is brand-new, but we’ve seen inspection reports come back with upwards of 50 items that need to be addressed prior to closing. It’s also critical to hire a buyer’s agent. Most builders will use contracts that contain inclusions and exclusions, and it’s our job as agents to make sure that the builder completes per the finish standards in the contract and that you, as a buyer, are cognizant of what you’re signing. 
+
+We help buyers purchase new construction homes throughout Charlotte all the time, so if you have any questions or need any assistance, don’t hesitate to reach out to us. We’d love to help you, as well.
+
+ 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Scott+Pridemore/2021/NewConstruction_ScottPridemore_v1.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Scott+Pridemore/2021/NewConstruction_ScottPridemore_v1.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s what buyers need to know about new construction homes.</itunes:subtitle>
+        <itunes:author>Scott Pridemore</itunes:author>
+        <itunes:summary>Here’s what buyers need to know about new construction homes.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charlotte, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>What’s Going on in the Charlotte Real Estate Market</title>
         <link>http://localhost:4000/whats-going-on-in-the-charlotte-real-estate-market.html</link>
